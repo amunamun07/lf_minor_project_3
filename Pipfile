@@ -18,6 +18,10 @@ statsmodels = "*"
 seaborn = "*"
 arch = "*"
 yfinance = "*"
+sklearn = "*"
+pandas-profiling = "*"
+ipywidgets = "*"
+ipython = "*"
 
 [dev-packages]
 
